@@ -13,8 +13,9 @@ public class Restassure1Test {
 	{
 		System.out.println("RestLogout");
 	}
-	public void Restout()
+	@Test
+	public void Restsignout()
 	{
-		System.out.println("Restout");
+		System.out.println("Restsignout");
 	}
 }

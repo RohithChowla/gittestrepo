@@ -13,4 +13,14 @@ public class Appium1Test {
 		{
 			System.out.println("Appiumweblogout");
 		}
+		@Test
+		public void Appiumwebsignin()
+		{
+			System.out.println("Appiumwebsignin");
+		}
+		@Test
+		public void Appiumwebsignout()
+		{
+			System.out.println("Appiumwebsignout");
+		}
 }
