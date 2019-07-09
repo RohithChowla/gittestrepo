@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2019-06-06T14:15:36Z" finished-at="2019-06-06T14:15:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2019-06-06T14:15:36Z" finished-at="2019-06-06T14:15:36Z">
+      <class name="TestCases1.Selenium1Test">
+        <test-method status="PASS" signature="Seleniumweblogin()[pri:0, instance:TestCases1.Selenium1Test@15975490]" name="Seleniumweblogin" duration-ms="0" started-at="2019-06-06T19:45:36Z" finished-at="2019-06-06T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumweblogin -->
+        <test-method status="PASS" signature="Seleniumweblogout()[pri:0, instance:TestCases1.Selenium1Test@15975490]" name="Seleniumweblogout" duration-ms="0" started-at="2019-06-06T19:45:36Z" finished-at="2019-06-06T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumweblogout -->
+      </class> <!-- TestCases1.Selenium1Test -->
+      <class name="TestCases1.Restassure1Test">
+        <test-method status="PASS" signature="Restlogin()[pri:0, instance:TestCases1.Restassure1Test@62043840]" name="Restlogin" duration-ms="8" started-at="2019-06-06T19:45:36Z" finished-at="2019-06-06T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Restlogin -->
+        <test-method status="PASS" signature="Restlogout()[pri:0, instance:TestCases1.Restassure1Test@62043840]" name="Restlogout" duration-ms="0" started-at="2019-06-06T19:45:36Z" finished-at="2019-06-06T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Restlogout -->
+      </class> <!-- TestCases1.Restassure1Test -->
+      <class name="TestCases1.Appium1Test">
+        <test-method status="PASS" signature="Appiumweblogin()[pri:0, instance:TestCases1.Appium1Test@6b143ee9]" name="Appiumweblogin" duration-ms="1" started-at="2019-06-06T19:45:36Z" finished-at="2019-06-06T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumweblogin -->
+        <test-method status="PASS" signature="Appiumweblogout()[pri:0, instance:TestCases1.Appium1Test@6b143ee9]" name="Appiumweblogout" duration-ms="1" started-at="2019-06-06T19:45:36Z" finished-at="2019-06-06T19:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumweblogout -->
+      </class> <!-- TestCases1.Appium1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
